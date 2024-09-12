@@ -1,0 +1,13 @@
+users:
+  admin1:
+    password: admin_password
+    role: admin
+    username: admin1
+  ann1:
+    password: qwert
+    role: user
+    username: ann1
+  user1:
+    password: user_password
+    role: user
+    username: user1
